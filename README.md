@@ -6,9 +6,9 @@ This project analyzes Medicare provider billing data to identify:
 - Geographic distribution of Medicare payments by provider
 - High-cost providers and service types
 
-## Preview
+## Links
 
-Click the notebook below to explore:
+Click the notebook below to see how I did it!
 
 👉 [MedicareAnalysis.ipynb](./MedicareAnalysis.ipynb)
 
