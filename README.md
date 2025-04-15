@@ -10,7 +10,7 @@ This project analyzes Medicare provider billing data to identify:
 
 Click the notebook below to explore:
 
-👉 [Medicare_Cost_Analysis.ipynb](./Medicare_Cost_Analysis.ipynb)
+👉 [MedicareAnalysis.ipynb](./MedicareAnalysis.ipynb)
 
 ## Tools Used
 
